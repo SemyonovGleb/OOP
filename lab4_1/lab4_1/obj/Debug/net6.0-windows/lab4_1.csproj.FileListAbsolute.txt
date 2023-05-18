@@ -1,0 +1,34 @@
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.csproj.AssemblyReference.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.csproj.GenerateResource.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.AssemblyInfoInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.AssemblyInfo.cs
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.frmPaint.resources
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.exe
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.deps.json
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.runtimeconfig.json
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.dll
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.pdb
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.dll
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\refint\lab4_1.dll
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.pdb
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.genruntimeconfig.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4 часть 1\lab4_1\lab4_1\obj\Debug\net6.0-windows\ref\lab4_1.dll
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.exe
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.deps.json
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.runtimeconfig.json
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.dll
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\bin\Debug\net6.0-windows\lab4_1.pdb
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.csproj.AssemblyReference.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.frmPaint.resources
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.csproj.GenerateResource.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.AssemblyInfoInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.AssemblyInfo.cs
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.dll
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\refint\lab4_1.dll
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.pdb
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\lab4_1.genruntimeconfig.cache
+C:\Users\semen\OneDrive\Рабочий стол\Учёба\Объектно-ориентированное программирование\Лабораторная работа №4\lab4_1\lab4_1\obj\Debug\net6.0-windows\ref\lab4_1.dll
